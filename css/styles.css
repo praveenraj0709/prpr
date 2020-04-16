@@ -1,0 +1,18 @@
+body {
+      color: #639a67;
+      background-color: #dee3e2;
+}
+
+hr  {
+    border-style: none;
+    border-top-style: dashed;
+    border-color: #639a67;
+    border-width: 1.75px;
+    width:50%;
+}
+ img {
+   width: 130px;
+ }
+ h1,h2,h3 {
+   color: #639a67;
+ }
